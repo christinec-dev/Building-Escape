@@ -1,6 +1,6 @@
 # Building-Escape
 
-Building Escape is a simple room escape game made with Unreal Engine and C++. The main purpose of the game is to find a way to escape the room, which is by finding the correct items to place on hidden pressure plates. This is a beta version of the game, made during from the ground up by me during the Unreal Engine C++ Developer: Learn C++ and Make Video Games course on Udemy https://www.udemy.com/course/unrealcourse/. The assets were found on the Unreal Engine Marketplace.
+Building Escape is a simple room escape game made with Unreal Engine and C++. The main purpose of the game is to find a way to escape the room, which is by finding the correct items to place on hidden pressure plates. This is a beta version of the game, made from the ground up by me during the Unreal Engine C++ Developer: Learn C++ and Make Video Games course on Udemy https://www.udemy.com/course/unrealcourse/. The assets were found on the Unreal Engine Marketplace.
 
 ## Topics covered in this project:
     C++, the games industry standard language.
