@@ -42,7 +42,6 @@ void UGrabber::FindPhysicsHandle()
 	//Crash Protection
 	if(!PhysicsHandle) {
 		UE_LOG(LogTemp, Error, TEXT("No Physics Handle Found On : %s"), *GetOwner()->GetName());
-
 	} 
 }
 
@@ -91,6 +90,8 @@ void UGrabber::TickComponent(float DeltaTime, ELevelTick TickType, FActorCompone
 FHitResult UGrabber::GetFirstPhysicsBodyInReach() const
 {
 	FHitResult Hit;
+
+	//Ray Cast
 	FCollisionQueryParams TraceParams(FName(TEXT("")), false, GetOwner());
 	
 	GetWorld()->LineTraceSingleByObjectType(
@@ -131,5 +132,5 @@ FVector UGrabber::GetPlayersReach() const {
 	);
 
 	//We use Ray-Cast (Line Tracing) - To Help Indicate Object Contact
-	return PlayerViewPointLocation * PlayerViewPointRotation.Vector() * Reach;
+	return PlayerViewPointLocation + PlayerViewPointRotation.Vector() * Reach;
 }

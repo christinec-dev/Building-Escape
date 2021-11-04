@@ -1,5 +1,4 @@
-// Fill out your copyright notice in the Description page of Project Settings.
-
+//Copyright Christine Coomans 2021
 #include "OpenDoor.h"
 #include "Components/PrimitiveComponent.h"
 #include "Components/AudioComponent.h"

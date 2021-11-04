@@ -14,16 +14,15 @@ public:
 	// Sets default values for this component's properties
 	UGrabber();
 
-	// Called every frame
-	virtual void TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction) override;
-
-protected:
 	// Called when the game starts
 	virtual void BeginPlay() override;
 
+	// Called every frame
+	virtual void TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction) override;
+
 private:
 	// Arm Reach Length
-	float Reach = 200.f;
+	float Reach = 100.f;
 
 	UPROPERTY();
 	UPhysicsHandleComponent* PhysicsHandle = nullptr;
