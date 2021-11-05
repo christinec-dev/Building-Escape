@@ -24,11 +24,18 @@ Building Escape is a simple room escape game made with Unreal Engine and C++. Th
     Vector maths for game play and physics calculations.
  
 Now, I wanted to take a Video Preview of my game, but my computer specs are too low so whenever I record the game is super laggy and dissapointing, instead, I hope these images would suffice:
+
 ![room1-min](https://user-images.githubusercontent.com/87696858/140412262-b512353f-c911-4efd-afee-89a4d3229064.png)
+
 ![Screenshot 2021-11-04 215130-min](https://user-images.githubusercontent.com/87696858/140412269-488a05d0-bafb-401f-a5b9-bfe48882c8be.png)
+
 ![Screenshot 2021-11-04 215358-min](https://user-images.githubusercontent.com/87696858/140412273-cb879080-3b5e-431c-8fd2-9ec7a028a91d.png)
+
 ![Screenshot 2021-11-04 215423-min](https://user-images.githubusercontent.com/87696858/140412287-833d4429-97b6-42a3-b68b-a11a8523135b.png)
+
 ![Screenshot 2021-11-04 215443-min](https://user-images.githubusercontent.com/87696858/140412295-64e6a660-822a-47fb-bd25-77cbe465dbfc.png)
+
 ![Screenshot 2021-11-04 215533-min](https://user-images.githubusercontent.com/87696858/140412315-2c584acc-4abc-4217-a08e-ed47a8366861.png)
+
 ![r3-min](https://user-images.githubusercontent.com/87696858/140412448-e562ad57-5e13-469f-a130-86b6dfeab886.png)
 
