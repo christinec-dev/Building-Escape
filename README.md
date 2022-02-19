@@ -23,7 +23,9 @@ Building Escape is a simple room escape game made with Unreal Engine and C++. Th
     C++ template programming to reduce repetition.
     Vector maths for game play and physics calculations.
  
-Now, I wanted to take a Video Preview of my game, but my computer specs are too low so whenever I record the game is super laggy and dissapointing, instead, I hope these images would suffice:
+ 
+## 💣 2022 Update  💣 ## 
+Previously I wanted to take a Video Preview of my game, but my computer specs were too low so whenever I record the game is super laggy and dissapointing. I recently upgraded my computer so I am going to remake this game, and hopefully have a demo soon. For now I hope these images would suffice:
 
 ![room1-min](https://user-images.githubusercontent.com/87696858/140412262-b512353f-c911-4efd-afee-89a4d3229064.png)
 
